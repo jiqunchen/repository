@@ -2,4 +2,8 @@
 222
 dev
 main
+<<<<<<< Updated upstream
 bug1
+=======
+dev working...
+
