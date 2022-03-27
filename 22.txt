@@ -2,4 +2,12 @@
 222
 dev
 main
+<<<<<<< HEAD
 bug1
+=======
+<<<<<<< Updated upstream
+bug1
+=======
+dev working...
+
+
